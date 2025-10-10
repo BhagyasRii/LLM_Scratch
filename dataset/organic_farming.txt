@@ -1,0 +1,2901 @@
+ORGANIC FARMING 
+
+Authors 
+
+Dr. Y. K. Singh 
+Assistant Professor 
+Department of Agronomy 
+Chandra Shekher Azad University of Agriculture & Technology 
+Kanpur, Uttar Pradesh- 208002 
+
+Dr. Bal Veer Singh 
+Teaching Associate 
+Department of Agronomy 
+Chandra Shekher Azad University of Agriculture & Technology 
+Kanpur, Uttar Pradesh- 208002 
+
+BS  GLOBAL  PUBLICATION  HOUSE 
+Murali Kunj Colony, Near Chandra Greens, Society, 
+Transport Nagar, Mathura, Uttar Pradesh, Pin- 
+281004, India. 
+Email: bsglobalpublicationhouse@gmail.com 
+Web: https://bsglobalpublicationhouse.com 
+
+Price:- 449/- 
+
+© Authors 2023 
+
+All the chapters given in the book will be copyrighted under authors. No 
+Part  of  this  publication  may  be  re  produced,  copied  or  stored  in  any 
+manager retrieval system, distributed or transmitted in any form or any 
+means  including  photocopy  recording  or  other  electronic  method. 
+Without the written permission of editors and publisher. 
+
+ISBN NO:- 978-81-19651-57-3 
+
+  No  Part  of  this  work  covered  by  the  copyright  hereon  may  be 
+reproduced  or  used  in  any  form  or  by  any  means-  graphics, 
+to 
+electronic  or  mechanical 
+photocopying,  recording,  taping,  web  distribution,  information, 
+networks or information storage and retrieval system - without the 
+written permission of the publisher. 
+
+including  but  not 
+
+limited 
+
+  Only Mathura shall be the jurisdiction for any legal dispute. 
+
+Disclaimer:  The  authors  are  solemnly  responsible  for  the  book  chapters 
+compiled in this volume. The editors and publisher shall not be responsible 
+for same in any manner for violation of any copyright act and so. Errors if 
+any are purely unintentional and readers are requested to communicate the 
+error  to  the  editors  or  publishers  to  avoid  discrepancies  in  future 
+editions. 
+
+ 
+ 
+ 
+ 
+PREFACE 
+
+Welcome  to  the  exploration  of  Organic  Farming,  a  comprehensive 
+guide  to  understanding  and  embracing  the  principles  and  practices  of 
+cultivating  crops  and  raising  livestock  in  harmony  with  nature.  This  book 
+delves into the core ethos of organic farming, offering insights into its origins, 
+in  fostering  sustainable  and 
+it  plays 
+principles,  and 
+environmentally friendly agricultural systems. 
+
+the  vital  role 
+
+Organic  Farming  represents  a  holistic  approach  to  farming  that 
+emphasizes soil health, biodiversity, and ecological balance. As concerns about 
+the  environmental  impact  of  conventional  agricultural  practices  grow,  the 
+demand for sustainable and organic alternatives has never been greater. 
+
+In  the  pages  that  follow,  we  will  embark  on  a  journey  through  the 
+fundamentals  of  organic  farming,  exploring  topics  such  as  soil  management, 
+crop rotation, pest control, and the vital role of organic matter. Additionally, we 
+will  examine  the  importance  of  certifications,  standards,  and  regulations  that 
+govern  the  organic  industry,  ensuring  that  consumers  can  make  informed 
+choices about the food they consume. 
+
+Throughout  this  book,  emphasis  is  placed  on  the  interconnectedness 
+of  all  elements  within  an  organic  farming  system.  From  the  microscopic 
+organisms  in  the  soil  to  the  complex  relationships  between  plants  and  their 
+environment, every aspect  is considered  in  fostering a holistic and sustainable 
+approach to agriculture. 
+
+Whether you are a farmer seeking to transition to organic practices, a 
+consumer  interested  in  making  informed  choices,  or  simply  a  curious  mind 
+eager  to  explore  the  world  of  organic  farming,  this  book  aims  to  serve  as  a 
+valuable  resource.  It  is  our  hope  that  by  delving  into  the  principles  and 
+practices  outlined  here,  you  will  gain  a  profound  appreciation  for  the 
+significance  of  organic  agriculture  in  building  a  resilient  and  ecologically 
+sound future for our planet. 
+
+Authors 
+
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+
+S.N 
+
+CHAPTERS 
+
+1.  Organic farming- Meaning 
+
+2. 
+
+Step-by-Step Conversion 
+
+3.  Mulching in Organic System 
+
+4.  Water Management 
+
+5. 
+
+6. 
+
+Nutrient Management 
+
+Pest & Disease Management 
+
+7.  Weed Management 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+Soil Cultivation & Tillage 
+
+Animal Husbandry in organic Agriculture 
+
+Institutes, International & National Organizations, 
+
+Environmental  benefits of organic Farming 
+
+12.  Organic Certification 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ORGANIC FARMING – MEANING  
+
+Organic farming based on “Nature can provides for everyone's need but not for 
+
+greed”…………Mahatma Gandhi 
+
+The term ‘organic’ was first coined by Lord Northbourne, in 1940, in his book 
+
+entitled ‘Look to the Land’. 
+
+Organic  farming  is  an  agricultural  system  that  uses  ecologically  based  pest 
+
+controls and biological fertilizers derived largely from animal and plant wastes 
+
+and  nitrogen-fixing  cover  crops.  Modern  organic  farming  was developed  as  a 
+
+response to the environmental harm caused by the use of chemical pesticides 
+
+and  synthetic  fertilizers  in  conventional  agriculture,  and  it  has  numerous 
+
+ecological  benefits.  Compared  with  conventional  agriculture,  organic  farming 
+
+uses  fewer  pesticides,  reduces  soil  erosion,  decreases  nitrate  leaching  into 
+
+groundwater and surface water, and recycles animal wastes back into the farm. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRINCIPLES….. 
+
+Organic farming and food processing practices are wide-ranging and necessitate 
+
+the  development  of  socially,  ecologically,  and  economically  sustainable  food 
+
+production  system.  The  International  Federation  of  Organic  Agriculture 
+
+Movements (IFOAM) has suggested the basic four principles of organic farming, 
+
+i.e. the principle of health, ecology, fairness, and care. The main principles and 
+
+practices of organic food production are to inspire and enhance biological cycles 
+
+in the farming system, keep and enhance deep-rooted soil fertility, reduce all 
+
+types of pollution, evade the application of pesticides and synthetic fertilizers, 
+
+conserve genetic diversity in food, consider the vast socio-ecological impact of 
+
+food production, and produce high-quality food in sufficient quantity (IFOAM, 
+
+1998).  
+
+SOURCE – randrsmith organic…. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEFINITIONS…. 
+
+  Organic  Agriculture  is  a  production  system  that  sustains  the  health  of 
+
+soils,  ecosystems,  and  people. 
+
+It  relies  on  ecological  processes, 
+
+biodiversity and cycles adapted to local conditions, rather than the use of 
+
+inputs  with  adverse  effects.  Organic  Agriculture  combines  tradition, 
+
+innovation, and science to benefit the shared environment and promote 
+
+fair relationships and good quality of life for all involved. 
+
+( IFOAM General Assembly ) 
+
+  “organic farming is a system which avoids or largely excludes the use of 
+
+synthetic inputs (such as fertilizers, pesticides, hormones, feed additives 
+
+etc) and to the maximum extent feasible rely upon crop rotations, crop 
+
+residues,  animal  manures,  off-farm  organic  waste,  mineral  grade  rock 
+
+additives  and  biological  system  of  nutrient  mobilization  and  plant 
+
+protection”. 
+
+( USDA ) 
+
+  “Organic agriculture is a unique production management system which 
+
+promotes  and  enhances  agro-ecosystem  health,  including  biodiversity, 
+
+biological cycles and soil biological activity, and this is accomplished by 
+
+using on-farm agronomic, biological and mechanical methods in exclusion 
+
+of all synthetic off-farm inputs”. 
+
+(FAO) 
+
+ 
+ 
+ 
+HISTORY 
+
+The  concept  of  organic  farming  was  started  1,000  years  back  when  ancient 
+
+farmer  started  cultivation  near  the  river belt  depending  on  natural  resources 
+
+only. There is brief mention of several organic inputs in Indian ancient literature 
+
+like Rig-Veda, Ramayana, Mahabharata and Kautilya Arthasashthra etc 
+
+Source- NICHE Agriculture….. 
+
+The concepts of organic agriculture were developed in the early 1900s by Sir 
+
+Albert Howard, F.H. King, Rudolf Steiner, and others who believed that the use 
+
+of  animal  manures,  cover  crops,  crop  rotation,  and  biologically  based  pest 
+
+controls resulted in a better farming system. Howard, having worked in India as 
+
+an  researcher,  gained  much  inspiration  from  the  traditional  and  sustainable 
+
+farming practices he encountered there and advocated for their adoption in the 
+
+West. Such practices were promoted by J.I. Rodale. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NEED FOR CONVERSION 
+
+The  goal  of  organic  agriculture  is  to  contribute  to  the  enhancement  of 
+
+sustainability. In the context of agriculture, sustainability refers to the successful 
+
+management of agricultural resources to satisfy human needs while at the same 
+
+time maintaining or enhancing the quality of the environment and conserving 
+
+natural resources for future generations. Sustainability in organic farming must 
+
+therefore be seen in a holistic sense, which includes ecological, economic and 
+
+social aspects 
+
+Source-Nature and more ……. 
+
+Organic agriculture provides help on all three aspects, ie. 
+
+Social & Economic sustainability and also provides good Market opportunities. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSIDERATIONS 
+
+Analysis of the Location 
+
+The conversion from a conventional to an organic system requires a transitory 
+
+period,  where  the  organic  practices  are  applied  progressively  following  an 
+
+organized plan. During this period it is important to analyse carefully the actual 
+
+situation  of  the  farm  and  identify  the  actions  to  be  taken  (Florez,  2003).  The 
+
+analysis of the farm must include  
+
+1.  Farm  characteristics:  size,  plots  and  crops  distribution,  which  kind  of 
+
+crops, trees, animals are integrated in the farm system.  
+
+2.  Soil Analysis: an evaluation of the soil structure, nutrient levels, organic 
+
+matter content, erosion level, and/or the soil have been contaminated. 
+
+3.  Climate:  rainfall  distribution  and  quantity,  temperatures,  frost  risks, 
+
+humidity. 
+
+4.  Organic matter sources and management (manures) 
+
+Farm Related Challenges 
+
+1.  Establishing a diverse and balanced farming system with a natural ability 
+
+to   regulate itself usually takes several years. 
+
+2.  Major  efforts  may  be  necessary  to  restore  natural  soil  fertility  by 
+
+providing a considerable amount of organic matter to the soil. 
+
+ 
+3.  Abandoning high input external fertilizers results in yield depression in the 
+
+first years of conversion, before soil fertility is re-established and yields 
+
+rise again. 
+
+4.  New  approaches  and  practices  usually  involve  a  lot  of  learning  and 
+
+intensive  observation  of  crop  development,  and  dynamics  of  pests, 
+
+diseases and natural enemies. 
+
+5.  Avoid burning of crop residues after harvest as this is, in most cases, not 
+
+a viable solution, since it destroys valuable organic material and damages 
+
+soil organisms. 
+
+6.  Establish  a  well  organised  diversification  systems  including  a  ‘planned’ 
+
+crop rotation and intercropping systems. 
+
+7.  Accumulate knowledge and practice regarding efficient use of farm own 
+
+resources, especially for compost production to manage and improve soil 
+
+fertility.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Climate Related Challenges 
+
+Converting a farm to organic farming in an area with very little rainfall and high 
+
+temperatures or strong winds will be more challenging than converting a farm 
+
+located in an area with well distributed rainfall and favourable temperatures.  
+
+In very warm and dry climate, losses of water through transpiration from plants 
+
+and evaporation from soils are high. These losses may be further encouraged by 
+
+strong winds, enhancing soil erosion. The soils’ organic matter content is  
+
+generally  low,  as  biomass  production  is  low,  implying  that  the  availability  of 
+
+nutrients  to  the  plants  is  highly  reduced.  Under  such  conditions,  the  key  to 
+
+increasing crop productivity lies in protecting the soil from strong sun and wind 
+
+and increasing the supply of organic matter and water to the soil.  
+
+Soil  organic  matter  can  either  be  increased  through  compost  or  through 
+
+cultivation  of  green  manure  crops.  In  the  case  of  compost  production  the 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+challenge  is  to  increase  production  of  plant  biomass,  which  is  needed  for 
+
+compost production. 
+
+ In warm and humid climate, high aboveground biomass production and rapid 
+
+decomposition of soil organic matter imply that the nutrients are easily made 
+
+available to the plants. Under such conditions a balance between production 
+
+and  decomposition  of  organic  matter  is  important  to  avoid  depletion  of  soil. 
+
+Creating  a  diverse  and  multi-layer  cropping  system  ideally  including  trees, 
+
+growing nitrogen-fixing cover crops in orchards and applying compost to enrich 
+
+the soil with organic matter and in this way increase its capacity to retain water 
+
+and nutrients. 
+
+REFERENCES 
+
+Agricultura Ecológica, Manual y Guía Didáctica. Javier Flórez Serrano, IRMA S.L. (Instituto de Restauración y Medio Ambiente, 
+León-España) FiBL (2011): 
+
+ African Organic Agriculture Training Manual  – Conversion. Version 1.0 June 2011. Edited  by Gilles Weidmann and Lukas 
+Kilcher. 
+
+Research Institute of Organic Agriculture FiBL, Frick IFOAM. 2003.  
+
+Training Manual for Organic Agriculture in the Tropics. Edited by Frank Eyhorn, Marlene Heeb, Gilles Weidmann, p 214, 219-
+224, http://www.ifoam.bio/ Looking after our land:  
+
+Soil and Water Conservation in Dryland Africa, Will Critchley, Published by Oxfam on behalf of the Arid Lands Information 
+Network  and 
+for  Environment  and  Development.,  1991,  Part  3,  Kenya, 
+International 
+http://www.fao.org/docrep/x5301e/x5301e0a.htm#kenya  
+
+Institute 
+
+the 
+
+ 
+ 
+ 
+ 
+ 
+ 
+STEP-BY-STEP CONVERSION 
+
+STEP 1 : Good Information First  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basically,  farmers  who  are  interested  in  converting  their  farm  to  organic 
+
+agriculture need to know: 
+
+   
+
+   
+
+   
+
+   
+
+   
+
+How to improve soil fertility. 
+
+How to keep crops healthy. 
+
+How to best increase diversity in the farm. 
+
+How to keep livestock healthy. 
+
+How to give value to organic products and how to successfully sell 
+
+                 them. 
+
+STEP 2 : Familiarise with Organic Practices   
+
+  Mulching - Covering the soil with dead plant material is an easy way 
+
+to control weeds and protect the soil in annual crops. This practice 
+
+can be implemented into most existing cropping systems.  
+
+  Intercropping - Growing two annual crops together, commonly a 
+
+leguminous crop like beans or a green manure crop in alternating 
+
+rows with maize or another cereal crop or vegetable is a common 
+
+practice  in  organic  farming  to  diversify  production  and  maximize 
+
+benefits from the land. In intercropping, special attention must be 
+
+paid  to  avoid  competition  between  the  crops  for  light,  nutrients 
+
+and water.  
+
+ 
+ 
+ 
+  Composting - Application of compost to the fields can have a major 
+
+impact on crop growth and yields. To get familiar with the process 
+
+of  making  compost,  farmers  should  be 
+
+instructed  by  an 
+
+experienced  person.  Proper  compost  production  requires  some 
+
+knowledge  and  experience  and  additional  labor,  but  is  low  in 
+
+investments. 
+
+  Green  manuring  -  The  practice  of  growing  a  leguminous  plant 
+
+species for biomass production and incorporation into the soil may 
+
+be  new  to  most  farmers.  Proper  green  manuring  first  requires 
+
+information on appropriate species. 
+
+  Organic pest management – Careful associations and management 
+
+of  plants  and  animals  in  order  to  prevent  pest  and  disease 
+
+outbreaks. Initially, bio-control agents may be applied but organic 
+
+pest management is best achieved through ecological approaches 
+
+that establish a pest/predator balance 
+
+  Appropriate  seeds  and  planting  material  -  Use  of  healthy  seeds 
+
+and planting materials, and robust and/or improved cultivars can 
+
+make a big change in crop production.  
+
+  Planting of leguminous trees - In perennial crop plantations such 
+
+as banana, coffee or cocoa, planting of leguminous trees such as 
+
+gliricidia,  calliandra,  and  sesbania  may  improve  the  growing 
+
+ 
+ 
+ 
+ 
+conditions of the fruit crop by providing shade, mulching material 
+
+and nitrogen through nitrogen fixation 
+
+. 
+
+  Terraces and soil bunds - Construction of terraces and soil bunds along 
+
+the  curves  of  hills  is  a  key  measure  for  soil  conservation.  This  practice 
+
+builds the foundation of further improvement to soil fertility on slopes. It 
+
+is of high relevance, but requires much labor and some specific knowledge 
+
+for appropriate implementation 
+
+Crops to Grow During Conversion 
+
+Besides growing crops for food, farmers may need to grow leguminous cover 
+
+crops to provide high-protein feed for livestock and to be used as green manures 
+
+to  feed  the  soil.  Planting  trees  for  shade,  as  windbreak,  for  firewood,  feed, 
+
+mulching material or for other uses, can be recommended in most situations. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STEP 3 : Full Conversion to Organic Farming 
+
+In a third step, implementation of organic practices throughout the entire farm 
+
+should  be  considered,  once  sufficient  experience  with  different  practices  has 
+
+been  gained.  As  soon  as  organic  practices  are  implemented  throughout  the 
+
+entire farm, a farmer can claim to be an organic farmer. 
+
+Commonly, consistent application of organic practices marks the beginning of a 
+
+long process of improving the production system: 
+
+1. 
+
+Improving  soil  fertility  based  on  the  recycling  of  farm  own  organic 
+
+materials and enhancement of farm own biomass production. 
+
+2. 
+
+Encouraging  positive  interactions  between  all  parts  of  the  production 
+
+system (the farm ecosystem) to enhance self-regulation of pests and diseases. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. 
+
+Optimizing the balance between feed production and livestock. 
+
+Farming  organically  also  means  continuously 
+
+learning 
+
+from  personal 
+
+observation, from outside experiences, sharing experiences with other organic 
+
+farmers  and  implementing  new  information  on  the  your  farm,  making  it 
+
+increasingly more sustainable. 
+
+REFERENCES 
+
+FiBL (2011): African Organic Agriculture Training Manual – Conversion. Version 1.0 June 2011. Edited by Gilles Weidmann 
+and Lukas Kilcher. Research Institute of Organic Agriculture FiBL, FrickIFOAM. 2003. Training Manual for Organic  
+
+Agriculture in the Tropics. Edited by Frank Eyhorn, Marlene Heeb, Gilles Weidmann, p 210-224, http://www.ifoam.bio 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MULCHING IN ORGANIC SYSTEM 
+
+Mulching  is  the  process  of  covering  the  topsoil  with  plant  material  such  as 
+
+leaves,  grass,  twigs,  crop  residues,  straw  etc.  A  mulch  cover  enhances  the 
+
+activity of soil organisms such as earthworms. They help to create a soil structure 
+
+with  plenty  of  smaller  and  larger  pores  through  which  rainwater  can  easily 
+
+infiltrate  into  the  soil,  thus  reducing  surface  runoff.  As  the  mulch  material 
+
+decomposes, it increases the content of organic matter in the soil. 
+
+USES 
+
+  Protecting the soil from wind and water erosion: soil particles cannot be 
+
+washed or blown away. 
+
+  Improving  the  infiltration  of  rain  and  irrigation  water  by  maintaining  a 
+
+good soil structure: no crust is formed, the pores are kept open 
+
+   
+
+  Keeping the soil moist by reducing evaporation: plants need less irrigation 
+
+or can use the available rain more efficiently in dry areas or seasons 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Feeding  and  protecting  soil  organisms:  organic  mulch  material  is  an 
+
+excellent food for soil organisms and provides suitable conditions for their 
+
+growth 
+
+  Suppressing weed growth: with a sufficient mulch layer, weeds will find it 
+
+difficult to grow through it 
+
+Selection of Mulch Material 
+
+The kind of material used for mulching will greatly influence its effect. Material 
+
+which easily decomposes will protect the soil only for a rather short time but will 
+
+provide nutrients to the crops while decomposing 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Application of Mulch 
+
+If  possible,  the  mulch  should  be  applied  before  or  at  the  onset  of  the  rainy 
+
+season, as then the soil is most vulnerable.  
+
+If the layer of mulch is not too thick, seeds or seedlings can be directly sown or 
+
+planted in between the mulching material. On vegetable plots it is best to apply 
+
+mulch only after the young plants have become somewhat hardier, as they may 
+
+be harmed by the products of decomposition from fresh mulch material. 
+
+If mulch is applied prior to sowing or planting, the mulch layer should not be too 
+
+thick in order to allow seedlings to penetrate it. Mulch can also be applied in 
+
+established crops, best directly after digging the soil. It can be applied between 
+
+the  rows,  directly  around  single  plants  (especially  for  tree  crops)  or  evenly 
+
+spread on the field. 
+
+REFERENCES 
+
+IFOAM. 2003. Training Manual for Organic Agriculture in the Tropics. Edited by Frank Eyhorn, Marlene 
+Heeb, Gilles Weidmann, p 108-113, http://www.ifoam.bio 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WATER MANAGEMENT 
+
+Scarcity of water for agriculture is a common phenomenon in many countries. 
+
+In some regions it is almost impossible to grow crops without irrigation. Even in 
+
+areas with large amounts of rainfall in the rainy season, crops may get short of 
+
+water during dry periods. 
+
+Organic  farming  aims  at  optimising  the  use  of  on-farm  resources  and  at  a 
+
+sustainable use of natural resources. Active water retention, water harvesting 
+
+and  storing  of  water  are  important  practices,  especially  for  organic  farmers. 
+
+Organic  farmers  know  that  it  is  more  important  to  first  improve  the  water 
+
+retention and the infiltration of water into the soil. 
+
+Approaches  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Planting Pits 
+
+Planting pits  are hand-dug circular holes which collect water and store it for use 
+
+by the crop. Each pit is about 20 cm across and 20 cm deep. After planting, the 
+
+holes are left partly open so they collect water. 
+
+Contour Bunding & Catchment Strips 
+
+In areas with low rainfall, there may not be enough water to grow a crop over 
+
+the whole area. On gentle slopes (less than 3%), one possibility is to use contour 
+
+bunds  and  catchment  strips.  Catchment  strips  are  areas  where  no  crops  are 
+
+planted. When rain falls on this ground, it runs downslope and is trapped by the 
+
+contour bund. Plant rows of crops behind the bund to use this water. This can 
+
+produce  a good yield even with very little rain. Mulch the cultivated areas with 
+
+crop residues to prevent erosion, help water sink in, and slow evaporation. 
+
+  CONTOUR BUNDS AND CATCHMENT STRIPS 
+
+SOURCE:  IIRR  AND  ACT.  2005.  CONSERVATION  AGRICULTURE:  A  MANUAL  FOR  FARMERS  AND  EXTENSION 
+WORKERS IN AFRICA. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CROP PLANNING & MANAGEMENT 
+
+Crop Rotation 
+
+Crop rotation means changing the type of crops grown in the field each season 
+
+or each  year .It  is  a  critical feature  of all  organic cropping  system, because  it 
+
+provides  the  principal  mechanisms  for  building  healthy  soils,  a  major  way  to 
+
+control pests, weeds, and to maintain soil organic matter). In more details, crop 
+
+rotation brings the following benefits. 
+
+•It improves soil structure: some crops have strong, deep roots. They can break 
+
+up hardpans, and tap moisture and nutrients from deep in the soil. Others have 
+
+many fine, shallow roots. They tap nutrients near the surface and bind the soil. 
+
+They form many tiny holes so that air and water can get into the soil. 
+
+•It increases soil fertility: legumes (such as groundnuts and beans) fix nitrogen 
+
+in the soil. When their green parts and roots rot, this nitrogen can be used by 
+
+other crops such as maize. The result is higher, more stable yields, without the 
+
+need to apply expensive inorganic fertilizer. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+
+It helps control weeds, pests and diseases: planting the same crop season 
+
+after season encourages certain weeds, insects and diseases. Planting different 
+
+crops breaks their life cycle and prevents them from multiplying. 
+
+• 
+
+It  produces  different  types  of  output:  growing  a  mix  of  grain,  beans, 
+
+vegetables and fodder means a more varied diet and more types of produce to 
+
+sell. 
+
+General Recommendations 
+
+  Grow  winter  cover  crops  BEFORE  late-planted  crops  to  accumulate 
+
+organic matter and nitrogen. 
+
+  Grow winter-killed cover crops (oat-pea) BEFORE early season crops, so 
+
+the seedbed will be easy to prepare. 
+
+  NEVER grow any crop after itself. 
+
+  Certain insect pests and diseases may spread easily from one crop to the 
+
+next through the crop residues. Avoid crop combinations where this is a 
+
+problem. 
+
+  Markets  do  not  always  exist  for  new  crops;  however  you  may  want  to 
+
+plant some of them as part of your rotation. However. If your objective is 
+
+marketing,  ensure  that  there  is  a  market  for  your  main  output  and 
+
+rotation crops. 
+
+ 
+ 
+ 
+Intercropping 
+
+Intercropping  refers  to  the  practice  of  growing  two  or  more  crops  in  close 
+
+proximity: growing two or more cash crops together, growing a cash crop with 
+
+a cover crop, or other non-cash crop that provide benefits to the primary crop . 
+
+When two or more crops are growing together, each must have adequate space 
+
+to  maximize  cooperation  and  minimize  competition  between  them.  To 
+
+accomplish this, four things need to be considered: 
+
+Spatial  arrangement,  Plant  density,  Maturity  dates  of  the  crops  being  grown, 
+
+Plant architecture. 
+
+ROW  INTERCROPPING  WITH  ALTERNATE  ROWS  OF  MAIZE  AND  BEANS  (LEFT)  ROW  INTERCROPPING  WITH 
+ALTERNATE ROWS OF A CEREAL AND A GRASS COVER CROP (RIGHT). 
+
+There are at least four basic spatial arrangements used in intercropping. Most 
+practical systems are variations of these: 
+
+  Row intercropping 
+
+  Strip intercropping 
+
+  Relay intercropping 
+
+  Mixed intercropping 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cover crops 
+
+Every plant which covers the soil and improves soil fertility can be a cover crop. 
+It could be a leguminous plant with other beneficial effects, or it could be a weed 
+characterised  by  its  rapid  growth  and  enormous  production  of  biomass.  The 
+most important property of cover crops is their fast growth and the capacity of 
+maintaining the soil permanently covered. 
+
+The following characteristics make an ideal cover crop - 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+The seeds are cheap, easy to get, to harvest, to store and to propagate 
+
+Be of rapid rate of growth and be able to cover the soil in short time 
+
+Be resistant against pests and diseases 
+
+Produce large amounts of organic matter and dry material 
+
+Fix nitrogen from the air and provide it to the soil 
+
+Have a de-compacting root system and regenerate degraded soils 
+
+Easy to sow and to manage as single crop or associated with other crops 
+
+Can be used as fodder, grains as food grains 
+
+REFERENCES 
+
+BOSTID. 1981. Food, fuel and fertilizer from organic wastes. Report of an ad hoc panel of the Advisory Committee on Technology Innovation. 
+Board on Science and Technology for International Development (BOSTID). Washington, DC, National Academy Press. pp. 154 
+
+FAO.  2001.  Mixed  crop-livestock  farming:  A  review  of  traditional  technologies  based  on  literature  and  field  experiences.  FAO  Animal 
+Production and Health Papers pp. 152 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NUTRIENT MANAGEMENT 
+
+Soil is a living system and soil fertility is the key to agricultural productivity. The 
+
+maintenance  of  the  fertility  of  the  soil  is  the  primary  step  in  any  agricultural 
+
+system. The plethora of microorganism inherent in any soil system ensures that 
+
+nutrient  cycle  is  in  place  and  the  large  substrate  is  broken  down  to  minute 
+
+particles that can be easy assimilated by the plant’s  root  system. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Composting 
+
+Composting is the process of transforming organic materials of plant or animal 
+
+origin into humus in heaps or pits. Compared with uncontrolled decomposition 
+
+of organic material, decomposition in the composting process occurs at a faster 
+
+rate, reaches higher temperatures and results in a product of higher quality. 
+
+Within the process of composting, three main phases can be distinguished: the 
+
+heating  phase,  the  cooling  phase  and  the  maturing  phase.  However,  these 
+
+phases cannot be clearly separated from one another. 
+
+Heating phase 
+
+•Within 3 days of setting up the compost heap, the temperature in the heap    
+
+rises to 60 to 70 °C and usually stays at this level for 2–3 weeks. Most of the 
+
+decomposition occurs during the heating phase. 
+
+•During this first phase of the composting process, the bacteria have a very high 
+
+oxygen  demand  due  to  the  rapid  development  of  their  population.  High 
+
+temperatures in the heap signal that there is an adequate supply of oxygen for 
+
+the bacteria. If there is not enough air in the heap, bacterial development will 
+
+be hindered and the compost will develop an unpleasant odour. 
+
+Cooling phase 
+
+•Once the material which is easily digested by the bacteria has been converted, 
+
+the temperature in the compost heap declines slowly and will remain at 25–45 
+
+°C. 
+
+ 
+ 
+ 
+•With the decline in temperature, fungi settle and start the decomposition of 
+
+straw, fibres and wooden material. As this decomposition process is slower, the 
+
+temperature of the heap does not rise. 
+
+•As  the  temperature  drops,  the  pH  of  the  composting  material  declines  (i.e. 
+
+acidity increases). 
+
+Maturing phase   
+
+•During  the  maturing  phase  nutrients  are  mineralised  and  humic  acids  and 
+
+antibiotics are built-up. 
+
+•Red compost worms and other soil organisms start to inhabit the heap during 
+
+this phase. 
+
+•At the end of this phase the compost has lost about half of its original volume, 
+
+has the colour of dark, fertile soil and is ready to use. 
+
+•The longer it is stored from now on, the more it loses its quality as a fertilizer, 
+
+while its capacity to improve soil structure increasesGree 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Green manuring 
+
+Green  manures  are  plants  grown  to  accumulate  nutrients  for  the  main  crop. 
+
+When they have built up maximum biomass, they are worked into the surface 
+
+soil. As they are usually cut before flowering, growing a green manure is thus 
+
+different from growing a legume crop in the rotation. Once worked into the soil 
+
+the fresh plant material releases nutrients quickly and will be fully decomposed 
+
+within a short period of time. Old or coarse material (e.g. straw, twigs, etc.) will 
+
+decompose  at  a  slower  rate  than  fine  material  and  will  therefore  contribute 
+
+more to the build-up of soil organic matter than to fertilizing the crop. 
+
+An alternative to sowing a green manure crop in the field is to collect fresh plant 
+
+material  from  elsewhere  and  work  it  into  the  soil.  For  example,  trees  and/or 
+
+shrubs growing alongside crops in an agroforestry system may provide a large 
+
+quantity of green material which can be used as green manure or for mulching. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Animal Manure 
+
+Depending  on  whether  animals  are  kept  in  stables  or  not  (part  or  full  time), 
+
+farmyard manure consists of animal excreta and bedding material (usually straw 
+
+or grass). Farmyard manure is extremely valuable organic manure. 
+
+Some characteristics and effects of farmyard manure: 
+
+•It contains large amounts of nutrients. 
+
+•Only part of the nitrogen content of manure is directly available to plants, while 
+
+the  remaining  part  is  released  as  the  manure  decomposes.  The  nitrogen  in 
+
+animal urine is available in the short-term. 
+
+•When dung and urine are mixed, they form a well-balanced source of nutrients 
+
+for plants. The availability of phosphorus and potassium from farmyard manure 
+
+is similar to that from chemical fertilizers. Chicken manure is rich in phosphorus. 
+
+However, it is important to be aware of the origin of the manure, as chicken 
+
+manure from conventional farms is contaminated by heavy metals. 
+
+•Organic  manures  contribute  to  the  build-up  of  soil  organic  matter  and  thus 
+
+improve soil fertility. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Microbial and Mineral Fertilizer 
+
+The microbial fertilizers mostly consist of organic material and some source of 
+
+sugar  or  starch,  which  are  fermented  together  with  specific  species  of 
+
+microorganisms.  The  products  are  living  organisms  and  need  to  be  applied 
+
+cautiously. They should not be used when expired, since the organisms may be 
+
+dead. 
+
+Although  some  research  has  been  done  on  the  use  of  microorganisms  and 
+
+positive effects may be proven, there is still little experience with such products. 
+
+To find out the effect of a certain product, it is recommended to test them in 
+
+small scale and compare with an untreated plot. Remember though: microbial 
+
+fertilizers cannot substitute an appropriate humus management in the farm. 
+
+Most of the bacteria and fungi present in the purchased products are generally 
+
+present  in  soil.  Microbial  inocula,  therefore,  enhance  the  presence  of  the 
+
+specific organisms. Some farmers make their own microbial fertilizers to save on 
+
+costs. 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PEST & DISEASE MANAGEMENT 
+
+Pest and disease management consists of a range of activities that support each 
+
+other.  Most  management  practices  are  long-term  activities  that  aim  at 
+
+preventing pests and diseases from  affecting a crop.  
+
+Management  focuses  on  keeping  existing  pest  populations  and  diseases  low. 
+
+Control on the other and is a short-term activity and focuses on killing pest and 
+
+disease. The general approach in organic agriculture to deal with the causes of 
+
+a problem rather than treating the symptoms also applies for pest and diseases. 
+
+Therefore, management is of a much higher priority than control. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Things to Remember 
+
+1)  Selection of adapted and resistant varieties: 
+
+→  Choose  varieties  which  are  well  adapted  to  the  local  environmental       
+
+conditions  (temperature,  nutrient  supply,  pests  and  disease  pressure),  as  it 
+
+allows  them  to  grow  healthy  and  makes  them  stronger  against  infections  of 
+
+pests and diseases. 
+
+2)  Selection of clean seed and planting material: 
+
+→ Use safe seeds which have been inspected for pathogens and weeds at all 
+
+stages of production. 
+
+→ Use planting material from safe sources. 
+
+3)  Use  of  suitable  cropping  systems  (see  6.  Crop  Planning  and 
+
+Management): 
+
+→ Mixed cropping systems: can limit pest and disease pressure as the pest has 
+
+less host plants to  feed on and more beneficial insect life in a diverse system. 
+
+→ Crop rotation: reduces the chances of soil borne diseases and increases soil 
+
+fertility. 
+
+→ Green manuring and cover crops: increases the biological activity in the soil 
+
+and  can  enhance  the  presence  of  beneficial  organisms  (but  also  of  pests; 
+
+therefore a careful selection of the proper species is needed). 
+
+4)  Use of balanced nutrient management: 
+
+ 
+ 
+ 
+→  Moderate  fertilization:  steady  growth  makes  a  plant  less  vulnerable  to 
+
+infection. Too much fertilization may result in salt damage to roots, opening the 
+
+way for secondary infections. 
+
+5)  Input of organic matter: 
+
+→  Increases  micro-organism  density  and  activity  in  the  soil,  thus  decreasing 
+
+population densities of pathogenic and soil borne fungi. 
+
+→ Stabilises soil structure and thus improves aeration and infiltration of water. 
+
+6)  Application of suitable soil cultivation methods: 
+
+→ Facilitates the decomposition of infected plant parts. 
+
+→ Regulates weeds which serve as hosts for pests and diseases. 
+
+7)  Use of good water management: 
+
+→ No  water logging: causes stress to  the plant, which encourages pathogens 
+
+infections. 
+
+→ Avoid water on the foliage, as water borne disease spread with droplets and 
+
+fungal disease germinate in water. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+BIOOGICAL CONTROL 
+
+Biological control is the use of natural enemies to manage populations of pests 
+
+and  diseases.  This  implies  that  we  are  dealing  with  living  systems,  which  are 
+
+complex and vary from place to place and from time to time. 
+
+Natural  enemies  that  kill  or  suppress  pests  or  diseases  are  often  fungi  or 
+
+bacteria. They are called antagonists or referred to as microbial insecticides or 
+
+bio-pesticides. Some commonly used antagonistic microbes are: 
+
+Bacteria  such  as  Bacillus  thuringiensis  (Bt).  Bt  has  been  available  as  a 
+
+commercial  microbial  insecticide  since  the  1960s.  Different  types  of  Bt  are 
+
+available  for  the  control  of  caterpillars  and  beetles  in  vegetables  and  other 
+
+agricultural crops, and for mosquito and black fly control. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Viruses such as NPV (nuclearpolyhedrosis virus), effective for control of 
+
+several  cater-pillar  pest  species.  Every  insect  species,  however,  requires  a 
+
+specific. Many farmers in West-Sumatra are now producing NPV on-farm. 
+
+Fungi that kill insects, such as Beauveria bassiana. Different strains of this 
+
+fungus are commercially available. For example: strain Bb 147 is used for control 
+
+of corn. 
+
+Fungi  that  work  against  plant-pathogens.  Some  examples  include: 
+
+Trichoderma sp., widely used in Asia for prevention of soil-borne diseases such 
+
+as damping-off and root rots in vegetables . Some Trichogramma species against 
+
+the  African  bollworm  are  bred 
+
+in  some 
+
+laboratories 
+
+in  Africa  against 
+
+lepidopteran pests and aphids.  
+
+Other Methods 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1)  NEEM:  Neem  derived  from  the  neem  tree  (Azadiracta  indica)  of  arid 
+
+tropical regions, contains several insecticidal compounds. The main active 
+
+ingredient  is  azadiractin,  which  both  deters  and  kills  many  species  of 
+
+caterpillars, thrips and whitefly. Neem cake (ground neem seed or neem 
+
+kernel powder) has also a considerable potential as a fertilizer and at the 
+
+same time it will hinder nematode attacks of the crop roots (e.g. tomato). 
+
+Put neem cake in the planting pit (200g per m2) and mix it with substrate. 
+
+The neem cake will repel and even kill nematodes and other root pests. 
+
+Insecticidal agents (azadirachtin) will be translocated to above- 
+
+2)  PYRETHRUM:  Pyrethrum  is  a  daisy-like  Chrysanthemum.  Pyrethrins  are 
+
+insecticidal  chemicals  extracted  from  the  dried  pyrethrum  flower.  The 
+
+flower heads are processed into a powder to make a dust. This dust can 
+
+be used directly or infused into water to make a spray. Pyrethrins cause 
+
+immediate paralysis to most insects 
+
+3)  CHILLIPEPPER:  Chillies  and  capsicum  pepper  have  both  repellent  and 
+
+insecticidal effects.     To make the chilli extract grind 200 g of chillies into 
+
+a fine dust,  boil it in 4 L water, add another 4 L of water and a few drops 
+
+of  liquid  soap.  This  mixture  can  be  sprayed  against  aphids,  ants,  small 
+
+caterpillars and snails. 
+
+4)  GARLIC:  Garlic  has  antifeedant  (insect  stop  feeding), 
+
+insecticidal, 
+
+nematicidal and repellent properties. Garlic is reportedly effective against 
+
+a wide range of insects at different stages in their life cycle effect and can 
+
+kill beneficial insects as well. Therefore, it should be used with caution. 
+
+REFERENCES 
+
+FiBL. 2011. African Organic Agriculture Training Manual – Pest, Disease and Weeds. Version 1.0 June 2011. 
+Edited by Gilles Weidmann and Lukas Kilcher. Research Institute of Organic Agriculture FiBL, Frick 
+
+ 
+WEED MANAGEMENT 
+
+   
+
+   
+
+   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOIL CULTIVATION & TILLAGE 
+
+Soil cultivation includes all mechanical measures to loosen, turn or mix the soil, 
+
+such as ploughing, tilling, digging, hoeing, harrowing etc. Careful soil cultivation 
+
+can  improve  the  soil‘s  capacity  to  retain  water,  its  aeration,  capacity  of 
+
+infiltration, warming up, evaporation etc. But soil cultivation can also harm the 
+
+soil fertility as it accelerates erosion and the decomposition of humus. 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Loosen the soil to facilitate the penetration of plant roots 
+
+Improve the aeration (nitrogen and oxygen from the air) 
+
+Encourage the activity of the soil organisms 
+
+Increase infiltration of water 
+
+Reduce evaporation 
+
+Destroy or control weeds and soil pests 
+
+Incorporate crop residues and manures into the soil 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLANT PROPAGATION 
+
+The  choice  of  high  quality  organic  seed  and  plant  propagation  material  of 
+
+suitable varieties is an important key to successful organic farming, allowing for 
+
+improved yield and product quality, for crop resilience, considerate use of non-
+
+renewable resources and for increased genetic and species diversity. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Importance of Traditional Varaities 
+
+• 
+
+Traditional seeds are locally available because farmers collect good seeds 
+
+from their own plots and keep them for the next season. 
+
+• 
+
+Farmers  either  buy or  exchange  their  seed  with  other  farmers  or  grow 
+
+their own seeds. Therefore the cost of seeds is minimal. 
+
+• 
+
+Native  seeds  are  geared  to  a  subsistence  economy  as  the  farmers  first 
+
+grow food for his subsistence and/or stock seed for the next season and market 
+
+only the surplus. 
+
+• 
+
+Native seeds embody indigenous knowledge. A farmer who uses native 
+
+seeds  use  his/her  traditional  knowledge,  skills  and  wisdom  to  grow  them, 
+
+promoting self-reliance. 
+
+• 
+
+• 
+
+An outstanding feature of native seeds is diversity. 
+
+Native seeds are hardy, as they have, over the years, developed resistance 
+
+to the pests and diseases.  
+
+• 
+
+Traditional seeds have high level of tolerance to conditions of stress and 
+
+are adapted to local agro-climatic conditions. 
+
+REFERENCES 
+
+FAO. 2011. Climate change and food systems resilience in Sub-Saharan Africa. Edited by Lim Li Ching, Sue Edwards and Nadia 
+El-Hage Scialabba, p. 361-377 
+
+FiBL. 2011. African Organic Agriculture Training Manual – Pest, Disease and Weeds. Version 1.0 June 2011. Edited by Gilles 
+Weidmann and Lukas Kilcher. Research Institute of Organic Agriculture FiBL, Frick 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANIMAL HUSBANDRY IN ORGANIC AGRICULTURE  
+
+Integrating animal husbandry into crop producing farms is one of the principles 
+
+of  organic  farming.  In  temperate  and  arid  zones,  animal  husbandry  plays  an 
+
+important role in the recycling of nutrients, while it is less emphasised in the 
+
+humid tropics. 
+
+→ Produce dung which is of great importance for soil fertility.  
+
+→ Yield products such as milk or eggs for sale or own consumption continuously. 
+
+→ Recycle by-products such as straw or kitchen waste. 
+
+→ Serve as draught animals for tillage or transport. 
+
+→ Produce meat, hides, feathers, horns etc. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Breeding Goals 
+
+REFERENCES 
+
+IFOAM.  2003.  Training  Manual  for  Organic  Agriculture  in  the  Tropics.  Edited  by  Frank  Eyhorn,  Marlene  Heeb,  Gilles 
+
+Weidmann, p 190-209, http: //www.ifoam.bio/ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INSTITUTES 
+
+INTERNATIONAL ORGANIZATIONS- 
+o  ISO- International organization for standardization Geneva-1947. 
+
+o  WWOOF- Worldwide Opportunities on Organic frms, England, 1971. 
+
+o  ISO-  International  Federation  of  Organic  Agriculture  movement  Germany-
+
+1972. 
+
+o  FIBL- Research Institute of Organic agriculture, Switzerland-1973. 
+
+o  NOFA- North east Organic Farming Association, New York – 
+
+                 1982. 
+
+o  OFRF- Organic farming Research Foundation, California- 1990. 
+
+o  IOIA-International Organic Inspectors Association-USA-1991. 
+
+o  IOAS-International Organic Accreditation Service-Germany-1997. 
+
+ NATIONAL ORGANIZATIONS- 
+
+o  ISRO- Indian Space Research Organization, Bangalore- 1969. 
+
+o  NPOP- National Programme for Organic Production, New Delhi- 1985. 
+
+o  APEDA-Agriculture  &  processed  food  products  Export  Development 
+
+Authority –New Delhi- 1985. 
+
+ 
+ 
+ 
+ 
+o  CFQCTI-  Central  Fertilizer  Quality  Control  &  Training  Institute  ,  Faridabad- 
+
+1985. 
+
+                  NIOF- National Institute of Organic farming, Ghaziabad- 2003. 
+
+o  OFAI- Organic farming Association of India, Goa – 2002. 
+
+o  NIOF- National Institute of Organic farming, Ghaziabad- 2003. 
+
+o  ICCOA-International  Competence  Centre  for  Organic  Agriculture  Banglore-
+
+2004. 
+
+o  NCOF- National Center of Organic farming, Ghaziabad- 2004. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NGO’s INVOLVED 
+
+o  Haritika-  Bundelkhand,  Madhya  Pradesh  focused  on  water  harvesting  & 
+
+management, crop optimization, soil conservation practices etc. 
+
+o  Manuvikasa-  Sirsi,  Karnataka,  focuses  on  issues  of  water  conservation( 
+
+atleast  four  water  tanks  at  every  village),  education  improvement  and 
+
+livelihood development. 
+
+o  Rajasthan  Bal  Kalyan  Samiti-  Udaipur,  Rajasthan,  works  on  healthy 
+
+empowered  and  educated  communities  .  It  has  assisted  more  than  8500 
+
+families in agriculture & horticulture based livelihood programmes. 
+
+o     Navdanya- New Delhi, promotes bio diversity conservation, bio diversity,    
+
+organic farming and the process of seed saving etc. 
+
+o  SEVA- Tamil Nadu, works on agriculture & environment. 
+
+o  National  Agro  Foundation-  Tamil  Nadu,  working  for  integrated  rural 
+
+development  with  special  focus  on  farm  sector  to  create  a  sustainable 
+
+livelihood model. 
+
+o  Myrada-  Karnataka,  promoting  livelihood  activities,  management  and 
+
+development of natural resources etc. 
+
+o  DHAN  Foundation-  Madurai,  Tamil  Nadu,  works  on  new  innovations  and 
+
+upscale  novel  interventions  in  combating  poverty  and  creating  a  fair  and 
+
+equitable society. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ORGANIC FARMING IN INDIA 
+
+NATIONAL PROGRAMME FOR ORGANIC PRODUCTION 
+
+Organic products are grown under a system of agriculture without the use of 
+
+chemical  fertilizers  and  pesticides  with  an  environmentally  and  socially 
+
+responsible approach. This is a method of farming that works at grass root level 
+
+preserving  the  reproductive  and  regenerative  capacity  of  the  soil,  good  plant 
+
+nutrition, and sound soil management, produces nutritious food rich in vitality 
+
+which has resistance to diseases. 
+
+India  is  bestowed  with  lot  of  potential  to  produce  all  varieties  of  organic 
+
+products  due  to  its  various  agro  climatic  conditions.  In  several  parts  of  the 
+
+country, the inherited tradition of organic farming is an added advantage. This 
+
+holds  promise  for  the  organic  producers  to  tap  the  market  which  is  growing 
+
+steadily in the domestic and export sector. 
+
+As  per  the  available  statistics,  India's  rank  9th  in  terms  of  World's  Organic 
+
+Agricultural land and 1st in terms of total number of producers as per 2022 
+
+data 
+
+The  APEDA,  Ministry  of  Commerce  &  Industries,  Government  of  India  is 
+
+implementing  the  National  Programme  for  Organic  Production  (NPOP).  The 
+
+programme  involves  the  accreditation  of  Certification  Bodies,  standards  for 
+
+organic production, promotion of organic farming and marketing etc. The NPOP 
+
+standards  for  production  and  accreditation  system  have  been  recognized  by 
+
+European  Commission  and  Switzerland  for  unprocessed  plant  products  as 
+
+equivalent to their country standards. With these recognitions, Indian organic 
+
+ 
+products  duly  certified  by  the  accredited  certification  bodies  of  India  are 
+
+accepted by the importing countries. APEDA is also in the process of negotiation 
+
+with South Korea, Taiwan, Canada, Japan etc. 
+
+AREA 
+
+As on 31st March 2021 total area under organic certification process (registered 
+
+under National Programme for Organic Production) is 4339184.93 ha (2020-21). 
+
+This includes 2657889.33 ha cultivable area and another 1681295.61 ha for wild 
+
+harvest collection. Among all the states, Madhya Pradesh has covered largest 
+
+area  under  organic  certification  followed  by  Rajasthan,  Maharashtra, 
+
+Chhattisgarh, Himachal Pradesh, Jammu & Kashmir and Karnataka. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+During  2016,  Sikkim  has  achieved  a  remarkable  distinction  of  converting  its 
+
+entire cultivable land (more than 75000 ha) under organic certification. 
+
+PRODUCTION 
+
+India produced around 3496800.34 MT (2020-21) of certified organic products 
+
+which includes all varieties of food products namely Oil Seeds, fibre, Sugar cane, 
+
+Cereals  &  Millets,  Cotton,  Pulses,  Aromatic  &  Medicinal  Plants,  Tea,  Coffee, 
+
+Fruits, Spices, Dry Fruits, Vegetables, Processed foods etc. The production is not 
+
+limited to the edible sector but also produces organic cotton fiber, functional 
+
+food products etc. 
+
+Among  different  states  Madhya  Pradesh  is  the  largest  producer  followed  by 
+
+Maharashtra, Karnataka, Rajasthan and Uttar Pradesh. In terms of commodities 
+
+Oil seeds are the single largest category followed by Sugar crops, Cereals and 
+
+Millets,  Tea  &  Coffee,  Fiber  crops,  fodder,  Pulses,  Medicinal/  Herbal  and 
+
+Aromatic plants and Spices & Condiments. 
+
+EXPORTS 
+
+The total volume of export during 2020-21 was 888179.68 MT. The organic food 
+
+export  realization  was  around  INR  707849.52  Lakhs  (1040.95  million  USD). 
+
+Organic products are exported to USA, European Union, Canada, Great Britain, 
+
+Korea Republic, Israel, Switzerland, Ecuador, Vietnam, Australia etc. 
+
+In terms of export value realization Processed foods including soya meal (57%) 
+
+lead among the products followed by Oilseeds (9%), Cereals and millets (7%), 
+
+Plantation crop products such as Tea and Coffee (6%), Spices and condiments 
+
+(5%), Medicinal plants(5%), Dry fruits (3%), Sugar(3%), and others. 
+
+SOURCES – APEDA 
+
+ 
+Organic Agriculture Statistics at a Glance in (2020-21) 
+
+AREA 
+
+Cultivated Area ( Organic + In-conversion) 
+
+2657889.33 ha 
+
+Wild Harvest Collection Area 
+
+Total Area 
+
+(Cultivated + Wild Harvest) 
+
+PRODUCTION 
+
+1681295.61 ha 
+
+4339184.93 ha 
+
+Farm Production 
+
+3468991.98 MT 
+
+Wild Harvest Production 
+
+27808.36 MT 
+
+Total Production 
+
+3496800.34 MT 
+
+OPERATORS 
+
+Individual farm producers 
+
+ICS Groups 
+
+Total Processors 
+
+Total Trader 
+
+3495 
+
+4781 
+
+1703 
+
+745 
+
+  
+  
+  
+  
+Wild Operators 
+
+71 (Total collectors 8724) 
+
+Total Operators 
+
+Total Farmers 
+
+10795   No. 
+
+1599010 
+
+ORGANIC EXPORTS 
+
+Total exports quantity 
+
+888179.68 MT 
+
+Total Export Value (INR) 
+
+707849.52 Lakhs 
+
+Total Export Value (US$) 
+
+1040.95 million USD 
+
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Total area under organic certification process during last 6 years (cultivated 
+
++ Wild Harvest) (in ha) 
+
+S. 
+
+State 
+
+2015-16  2016-17  2017-18  2018-
+
+2019-20  2020-21 
+
+N
+
+Name 
+
+o. 
+
+19 
+
+1  Madhya 
+
+2275567
+
+2292697
+
+1156881
+
+918303
+
+1161015
+
+1637730
+
+Pradesh 
+
+.10 
+
+.39 
+
+.40 
+
+.08 
+
+.03 
+
+.46 
+
+2 
+
+Rajastha
+
+553447.
+
+539522.
+
+442133.
+
+632701
+
+539245.
+
+481862.
+
+n 
+
+70 
+
+12 
+
+72 
+
+.23 
+
+81 
+
+38 
+
+3  Maharas
+
+266299.
+
+292391.
+
+304074.
+
+261571
+
+293135.
+
+371798.
+
+htra 
+
+24 
+
+78 
+
+81 
+
+.74 
+
+19 
+
+28 
+
+4 
+
+Chhattisg
+
+180924.
+
+179752.
+
+191464.
+
+206180
+
+208392.
+
+286684.
+
+arh 
+
+94 
+
+14 
+
+66 
+
+.71 
+
+80 
+
+52 
+
+5  Himachal 
+
+1358449
+
+14376.7
+
+170153.
+
+203847
+
+204836.
+
+203736.
+
+Pradesh 
+
+.24 
+
+2 
+
+47 
+
+.50 
+
+35 
+
+47 
+
+6 
+
+Jammu & 
+
+54515.0
+
+181608.
+
+180870.
+
+187002
+
+215275.
+
+192769.
+
+Kashmir 
+
+1 
+
+32 
+
+34 
+
+.89 
+
+95 
+
+82 
+
+7 
+
+Karnatak
+
+133647.
+
+81948.8
+
+105515.
+
+104962
+
+170418.
+
+174423.
+
+a 
+
+27 
+
+1 
+
+02 
+
+.37 
+
+49 
+
+56 
+
+8  Uttar 
+
+106292.
+
+101459.
+
+192734.
+
+205980
+
+132031.
+
+159307.
+
+Pradesh 
+
+39 
+
+95 
+
+40 
+
+.82 
+
+67 
+
+73 
+
+ 
+ORGANIC CERTIFICATION 
+
+Though organic certification can be obtained for all types of agricultural produce 
+
+including processed food and food served in restaurants. Large scale farmers or 
+
+small  size  land  holder  growers  groups  (minimum  of  25  and  maximum  of  500 
+
+farmers  having  lands  in  the  same  geographical  area)  can  apply  for  Organic 
+
+certification  of  their  produce.  The  point  to  note  here  is  that  the  land  is  not 
+
+certified as organic. Rather the produce from it is certified. 
+
+APEDA offers an internet based e-service called Tracenet to collect, record and 
+
+report data on organic certification and thus facilitating the process of organic 
+
+certification. It is also used to trace any organic produce all the way to the farm 
+
+from anywhere in the supply chain. 
+
+Organic certification process is  carried out by accredited bodies under NPOP. 
+
+Process of Organic certification  
+
+  Receipt of application by any accredited organic certification body from 
+
+farmer. 
+
+  The certification body provides standards and operational documents to 
+
+farmer(s). 
+
+  There is an agreement of roles and commitments between the farmer(s) 
+
+and the body. 
+
+  Demand of fees by accredited body. 
+
+  Document audit. 
+
+  Regular Field inspection by internal quality system manager and external 
+
+inspector and documentation of the same. 
+
+  Compliance verification through inspection and audits. 
+
+  Preparation of reports by the field inspector. 
+
+  Review of report by a reviewing body. 
+
+  Decisions on certification. 
+
+The field inspection is one of the most important process step in Organic 
+
+certification in India. Here is a summary of the inspection methods. 
+
+  Visit of external inspector to fields and facilities. 
+
+  Review of records and accounts. 
+
+  Calculation  of  input  and  output  norms  and  preparation  of  production 
+
+estimate from a farm. 
+
+  Assessment of production system 
+
+  Interview with responsible person(s). 
+
+  Risk assessment from neighboring farms. 
+
+  Inspection of use of any GM products. 
+
+  Inspection of use of off-farm inputs. 
+
+  Analysis  of  residue  tests  by  certified  laboratories  for  pesticides,  heavy 
+
+metals if required. 
+
+  Inspection of sustainable practices. 
+
+  Inspection and study of entire production unit. 
+
+  Organic  certificate  for  any  produce  is  valid  for  3  years  only.  It  must  be 
+
+renewed after expiry of 3 years.
+
+INITIATIVES BY GOVERNMENT   
+
+The  Government  of  India  provides  assistance  for  promoting  organic  farming 
+
+across the country though different schemes. 
+
+1. Paramparagat Krishi Vikas Yojana (PKVY) 
+
+Paramparagat Krishi Vikas Yojana promotes cluster based organic farming with 
+
+PGS (Participatory Guarantee System) certification. Cluster formation, training, 
+
+certification and marketing are supported under the scheme. Assistance of Rs. 
+
+50,000 per ha /3 years is provided out of which 62 percent (Rs. 31,000) is given 
+
+as incentive to a farmer towards organic inputs. 
+
+2.  Mission  Organic  Value  Chain  Development  for  North  Eastern  Region 
+
+(MOVCDNER) 
+
+The  scheme  promotes  third  party  certified  organic  farming  of  niche  crops  of 
+
+north east region through Farmer Producer Organisations (FPOs) with focus on 
+
+exports. Farmers are given assistance of Rs 25,000 per hectare for three years 
+
+for  organic  inputs  including  organic  manure  and  bio-fertilisers  among  other 
+
+inputs.  Support  for  formation  of  FPOs,  capacity  building,  post-harvest 
+
+infrastructure up to Rs 2 crore are also provided in the scheme. 
+
+ 
+ 
+ 
+ 
+ 
+3.Capital  Investment  Subsidy  Scheme  (CISS)  under  Soil  Health  Management 
+
+Scheme 
+
+Under  this  scheme,  100  percent  assistance  is  provided  to  state  government, 
+
+government agencies for setting up of mechanised fruit and vegetable market 
+
+waste, agro waste compost production unit up to a maximum limit of Rs 190 
+
+lakh per unit (3000 Total Per Annum TPA capacity). Similarly, for individuals and 
+
+private agencies assistance up to 33 percent of cost limit to Rs 63 lakh per unit 
+
+as capital investment is provided. 
+
+4. National Mission on Oilseeds and Oil Palm (NMOOP) 
+
+Under the Mission, financial assistance at 50 percent subsidy to the tune of Rs. 
+
+300  per  hectare  is  being  provided  for  different  components  including  bio-
+
+fertilisers, supply of  Rhizobium culture, Phosphate Solubilising Bacteria (PSB), 
+
+Zinc Solubilising Bacteria (ZSB), Azatobacter, Mycorrhiza and vermi compost. 
+
+5. National Food Security Mission (NFSM) 
+
+Under  NFSM,  financial  assistance  is  provided  for  promotion  of  bio-fertiliser 
+
+(Rhizobium/PSB) at 50 percent of the cost limited to Rs 300 per hectare. 
+
+As  per  international  resource  data  from  Research  Institute  of  Organic 
+
+Agriculture  (FiBL)  and  the  International  Federation  of  Organic  Agriculture 
+
+Movements  (IFOAM)  Statistics  2020,  India  stands  at  9th  position  in  terms  of 
+
+certified agricultural land with 1.94 million hectare (2018-19). 
+
+ 
+ 
+ 
+ 
+BENEFITS 
+
+Benefits of organic farming 
+
+Better Taste and More Nutrition 
+
+Fruits and vegetables that are organically raised have a much better taste than 
+
+other mechanically farmed ones. This is  due to the fact that they are given a 
+
+much  longer  time  to  develop  and  are  not  pumped  with  artificial  things.  The 
+
+sugar structures in these crops have more time to mature and develop into a 
+
+tasty and nutritious product. 
+
+Reduces pesticide and chemical residue in soil 
+
+Organic farming minimizes the use of pesticides and chemicals thereby reducing 
+
+the major environmental issues. It ensures the health of soil, water, air and flora 
+
+and  fauna.  Also  reduces  the  major  environmental  issues  like  soil  erosion,  air 
+
+pollution, water pollution etc. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Promotion of Biodiversity 
+
+Crop rotation to build soil fertility and raising animals naturally helps promote 
+
+biodiversity, which promotes greater health across all living species. As organic 
+
+farms provide safe havens to wildlife, local ecosystems also improve.  
+
+Consumes Less Energy 
+
+Organic farming does not rely on the use of synthetic fertilizers as opposed to 
+
+conventional  techniquesthat  are  generous  with  these  external  chemicals. 
+
+Avoiding fertilizers contributes to a greater cause of energy conservation. This is 
+
+because manufacturing synthetic fertilizers consumes a significant amount of 
+
+energy. On average, it’s safe to say that the energy usage is lower by at least 30-
+
+50% in the organic farming systems.  
+
+Long-term sustainability 
+
+Organic  farming  is  a  long-term,  sustainable  approach  to  food  production. 
+
+Organic  farming  takes  a  proactive,  preventative  approach  instead  of  dealing 
+
+with problems after they emerge which can be too 
+
+Reduced erosion and better water management 
+
+Both  soil  improvement  and  the  concept  of  keeping  the  ground  “covered”  as 
+
+much as possible, either by mulches or cover crops, reduces soil erosion. Soils 
+
+with  improved  structure  and  higher  content  of  organic  matter  and  the  more 
+
+compact growth of an organic crop also reduces the water consumption in 
+
+Agriculture The farming techniques are based on how well a farmer can make 
+
+the best use of his immediate natural resources . 
+
+ 
+ 
+Conclusion 
+
+ The phenomenon of ‘Organic agriculture’ is the only solution to nurture the land 
+
+and to regenerate the soil by going back to our traditional method of farming 
+
+i.e., free from chemicals, pesticides and fertilizers. 
+
+This  is  a  possible  step  for  sustainable  development  by  choosing  not  to  use 
+
+chemicals, synthetic materials, pesticides and growth hormones to produce high 
+
+nutritional quality food and in adequate quantities.Organic farming is an option 
+
+agricultural  system  which  quickly  changes.  farming  rehearsals.  It  depends  on 
+
+composts  of  natural  starting  points,  for  example,  fertilizer  excrement,green 
+
+excrement, and bone feast and so forth substantially more than deciding not to 
+
+utilize pesticides,fertilizers. 
+
+References 
+
+1. Admin. (2015, February 27). 8 Benefits of Widespread Organic Farming. Retrieved from 
+
+https://precisionagricultu.re/8-benefits-of-organic-farming/ 
+
+2. Admin. (2020, August 05). Introduction to Agriculture and Basic Methods of Organic Farming. 
+
+Retrieved from https://byjus.com/biology/agriculture-and-organic-farming/ 
+
+3. Advantages and Disadvantages of Organic Farming. (2019, August 02). Retrieved from 
+
+https://tutsmaster.org/advantages-and-disadvantages-of-organic-farming/ 
+
+4. Advantages and disadvantages of Organic Farming. (n.d.). Retrieved from 
+
+https://www.b2bio.bio/en/noticias-productos-ecologicos/advantages-and-disadvantages-oforganic-farming 
+
+5. Agriculture Post. (2020, September 18). 5 Govt schemes, promoting organic farming in India. 
+
+Retrieved 
+provides,the country though different 
+
+from  https://agriculturepost.com/5-govt-schemes-promoting-organic-farming-inindia/#:~:text=The  Government  of 
+
+India 
+
+schemes.&text=Paramparagat Krishi Vikas Yojana promotes,(Participatory Guarantee System) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Major Problems and Constraints 
+
+Lack of Awareness: 
+
+The  most  important  constraint  felt  in  the  progress  of  organic  farming  is  the 
+
+inability  of  the  government  policy  making  level  to  take  a  firm  decision  to 
+
+promote organic agriculture. 
+
+Unless  such  a  clear  and  unambiguous  direction  is  available  in  terms  of  both 
+
+financial and technical supports, from the Centre to the Panchayat levels, mere 
+
+regulation making will amount to nothing. Many farmers in the country have 
+
+only  vague  ideas  about  organic  farming  and  its  advantages  as  against  the 
+
+conventional farming methods. 
+
+Use of bio-fertilizers and bio pesticides requires awareness and willingness on 
+
+the  part  of  the  farming  community.  Knowledge  about  the  availability  and 
+
+usefulness of supplementary nutrients to enrich the soil is also vital to increase 
+
+productivity. Attention on the application of composts/organic manure is also 
+
+lacking. 
+
+The organic matter is spread during the months when the right moisture level is 
+
+absent  on  the  soil.  The  whole  manure  turns  into  wastes  in  the  process.  The 
+
+required operation is of course labour intensive and costly, but it is necessary to 
+
+obtain the desired results. 
+
+ 
+ 
+ 
+ 
+Output Marketing Problems: 
+
+It is found that before the beginning of the cultivation of organic crops, their 
+
+marketability and that too at a premium over the conventional produce has to 
+
+be  assured.  Inability  to  obtain  a  premium  price,  at  least  during  the  period 
+
+required  to  achieve  the  productivity  levels  of  the  conventional  crop  will  be  a 
+
+setback. 
+
+Shortage of Bio-mass: 
+
+Many experts and well informed farmers are not sure whether all the nutrients 
+
+with  the  required  quantities  can  be  made  available  by  the  organic  materials. 
+
+Even if this problem can be surmounted, they are of the view that the available 
+
+organic matter is not simply enough to meet the requirements. 
+
+Inadequate Supporting Infrastructure: 
+
+In spite of the adoption of the NPOP during 2000, the state governments are yet 
+
+to formulate policies and a credible mechanism to implement them. There are 
+
+only four agencies for accreditation and their expertise is limited to fruits and 
+
+vegetables, tea, coffee and spices. The certifying agencies are inadequate. 
+
+High Input Costs: 
+
+The small and marginal farmers in India have been practicing a sort of organic 
+
+farming in the form of the traditional farming system. They use local or own farm 
+
+renewable resources and carry on the agricultural practices in an ecologically 
+
+friendly environment. However, now the costs of the organic inputs are higher 
+
+than those of industrially produced chemical fertilizers and pesticides including 
+
+other inputs used in the conventional farming system. 
+
+ 
+ 
+Marketing Problems of Organic Inputs: 
+
+Bio-fertilizers and bio-pesticides are yet to become popular in the country. There 
+
+is a lack of marketing and distribution network for them because the retailers 
+
+are not interested to deal in these products, as the demand is low. The erratic 
+
+supplies  and  the  low  level  of  awareness  of  the  cultivators  also  add  to  the 
+
+problem. 
+
+Higher  margins  of  profit  for  chemical  fertilizers  and  pesticides  for  retailing, 
+
+heavy  advertisement  campaigns  by  the  manufacturers  and  dealers  are  other 
+
+major problems affecting the markets for organic inputs in India. 
+
+Low Yields: 
+
+In many cases the farmers experience some loss in yields on discarding synthetic 
+
+inputs on conversion of their farming method from conventional to organic. 
+
+Restoration  of  full  biological  activity  in  terms  of  growth  of  beneficial  insect 
+
+populations,  nitrogen  fixation  from  legumes,  pest  suppression  and  fertility 
+
+problems will take some time and the reduction in the yield rates is the result in 
+
+the interregnum. It may also be possible that it will take years to make organic 
+
+production possible on the farm. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FUTURE ASPECTS  
+
+Organic farming yields more nutritious and safe food. The popularity of organic 
+
+food  is  growing  dramatically  as  consumer  seeks  the  organic  foods  that  are 
+
+thought  to  be  healthier  and  safer.  Thus,  organic  food  perhaps  ensures  food 
+
+safety from farm to plate. The organic farming process is more eco-friendly than 
+
+conventional  farming.  Organic  farming  keeps  soil  healthy  and  maintains 
+
+environment integrity thereby, promoting the health of consumers. Moreover, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the organic produce market is now the fastest growing market all over the world 
+
+including India.  
+
+Organic agriculture promotes the health of consumers of a nation, the ecological 
+
+health of a nation, and the economic growth of a nation by income generation 
+
+holistically. India, at present, is the world’s largest organic producers (Willer and 
+
+Lernoud, 2019) and with this vision, we can conclude that encouraging organic 
+
+farming in India can build a nutritionally, ecologically, and economically healthy 
+
+nation in near future. 
+
+Organic agriculture will prosper in India and will contribute in feeding 1.5 billion 
+
+people by 2030. According to statistics by Assocham and TechSci, the organic 
+
+farming market in India will reach around $1.36 billion by 2020 with a growth 
+
+rate of 25-30% per year. Organic farming is rapidly growing in India and investors 
+
+agree  that  challenges  do  exist  in  this  sector  but  as  soon  as  awareness  and 
+
+educational  training  about  the  benefits  and  the  set-up  of  organic  farming  is 
+
+spread to the farmers, a positive economic outcome will follow. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIBLIOGRAPHY 
+
+  Apeda.gov.in 
+
+  sare.org/publications/transitioning-to-organic-production 
+
+  usda.gov/media/blog/2012/10/10/organic 
+
+  agrifarming.in/how-to-get-organic-farm-certificate-in-india 
+
+  indiafilings.com/learn/organic-farming-certification 
+
+  apeda.gov.in/apedawebsite/organic/organic_products 
+
+  ibef.org/blogs/export-potential-of-organic-and-horticulture 
+
+  pib.gov.in/Pressreleaseshare.aspx 
+
+  krishi.icar.gov.in/jspui/bitstream 
+
+  nabard.org 
+
+  jaivikkheti.in/DMS 
+
+  academic.oup.com 
+
+  fao.org/fileadmin 
+
+  drishtiias.com 
+
+  goodlandgurus.medium.com 
+
+  treehugger.com 
